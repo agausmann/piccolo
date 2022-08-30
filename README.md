@@ -5,12 +5,12 @@ A Raspberry Pi Pico clone with a USB-C port.
 It's _\[current year\]_. Micro-USB is old news. But board designers are, for
 some reason, still using it. I dunno, it might be a little cheaper/simpler.
 Maybe you don't _technically_ need USB-C anway if you're not using USB 3.0.
-But, in my humble opinion, USB-C is just so much better; there is hardly any
+But, in my experience, USB-C is just so much better; there is hardly any
 reason to not use it.
 
 ## License
 
-In the spirit of the original Pico design...
+In the spirit of the original Pico design:
 
 These design files are made available openly, with no limitations.
 
